@@ -1,0 +1,2 @@
+serviceClass: gov.dhs.daiml.gwt.client.GWTService
+path: D31120C60D7A0221CFA9623C1C8300D1.gwt.rpc

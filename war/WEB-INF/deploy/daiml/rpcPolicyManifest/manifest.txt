@@ -1,0 +1,3 @@
+# Module daiml
+# RPC service class, partial path of RPC policy file
+gov.dhs.daiml.gwt.client.GWTService, D31120C60D7A0221CFA9623C1C8300D1.gwt.rpc

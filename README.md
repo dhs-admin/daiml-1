@@ -16,3 +16,7 @@ MNIST
 Price Prediction
 
 ![HousePricePredict](war/images/screenshot-predict.png)
+
+## Options
+
+TBD

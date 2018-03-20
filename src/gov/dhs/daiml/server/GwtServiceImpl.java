@@ -20,6 +20,8 @@ import com.google.gwt.user.server.rpc.RemoteServiceServlet;
 
 public class GwtServiceImpl extends RemoteServiceServlet implements
 GWTService {
+	
+	// Show options here
 
 	// Instantiate H2O class
 	//gbm_3632d608_7e63_4c05_97bc_6ccb79d070cf gbm = new gbm_3632d608_7e63_4c05_97bc_6ccb79d070cf();

@@ -13,6 +13,6 @@ MNIST
 
 ![MNIST](war/images/screenshot-mnist.png)
 
-MNIST
+Price Prediction
 
-![MNIST](war/images/screenshot-predict.png)
+![HousePricePredict](war/images/screenshot-predict.png)
